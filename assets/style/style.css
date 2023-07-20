@@ -1,0 +1,5 @@
+.col img {
+    height: 200px;
+    width: 100%;
+    filter: blur(10px);
+}
